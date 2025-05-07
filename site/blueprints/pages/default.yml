@@ -1,21 +1,38 @@
 title: Default Page
 
-columns:
-  main:
-    width: 2/3
-    sections:
-      fields:
-        type: fields
-        fields:
-          text:
-            type: textarea
-            size: huge
-  sidebar:
-    width: 1/3
-    sections:
-      pages:
-        type: pages
-        template: default
-      files:
-        type: files
+status:
+  draft:
+    label: Brouillon
+    text: La page est en cours de rédaction.
+  listed:
+    label: Publiée
+    text: La page est visible publiquement.
 
+options:
+  preview: "http://localhost:3001/{{ page.slug }}"
+
+fields:
+  contenu:
+    label: Contenu
+    type: blocks
+    fieldsets:
+      - textWithTitle
+      - location
+      - type: location
+        name: Localisation google maps
+        icon: map
+      - type: film-list
+        name: Liste de films
+        icon: video
+        preview: fields
+        wysiwyg: true
+        fields:
+          category:
+            label: Catégorie
+            type: select
+            required: true
+            options:
+              all: Tous les films
+              kids: Film pour enfant
+              senior: 65+
+            default: all
