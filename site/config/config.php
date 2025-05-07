@@ -4,7 +4,6 @@ return [
     'kql' => [
         'auth' => false
     ],
-    'debug' => true,
     'routes' => [
         [
             'pattern' => '(:all)',
