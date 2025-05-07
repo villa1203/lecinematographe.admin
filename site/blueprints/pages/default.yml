@@ -12,6 +12,13 @@ options:
   preview: "http://localhost:3001/{{ page.slug }}"
 
 fields:
+  show_in_nav:
+    type: toggle
+    required: true
+    text:
+      - 'ne pas afficher dans la navigation'
+      - 'afficher dans la navigation'
+
   contenu:
     label: Contenu
     type: blocks
