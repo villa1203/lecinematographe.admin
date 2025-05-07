@@ -48,3 +48,11 @@ Icon
 # ---------------
 
 /site/config/.license
+
+
+# composer
+/vendor/
+/composer.lock
+
+# Fichiers de développement
+.idea/
