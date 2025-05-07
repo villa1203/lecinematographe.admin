@@ -1,0 +1,13 @@
+Title: Événements
+
+----
+
+Contenu: [{"content":{"text":"<h2>65+</h2><p>Une fois par mois, une séance programmée spécialement pour les seniors, suivie d’une collation offerte dans notre buvette. Bienvenue à tout le monde.</p><p>La programmation 65+ débutera à l'automne 2024.</p>"},"id":"b49d43ff-73ae-4e84-ad7d-52a7989d1e96","isHidden":false,"type":"textWithTitle"},{"content":{"category":"senior"},"id":"6a3abf95-ff57-41b1-89da-60c3e0e02228","isHidden":false,"type":"film-list"},{"content":{"text":"<h2>Cycle estival</h2><p>Durant les mois de juillet et août, le Cinématographe propose une série de projections autour d’une thématique large. Des films choisis avec soin pour accompagner les longues soirées d’été lausannoises, rire, frissonner et s’émouvoir ensemble.</p><p>Inscrivez-vous à notre newsletter pour être tenus au courant de la sortie de la programmation.</p><h2>Cours publics</h2><p>À partir de l’automne 2024, le Cinématographe proposera une série de cours publics de cinéma donnés par des invitéexs, critiques de cinéma, professionnellexs du cinéma, chercheureusexs et écrivainexs.</p><p>Inscrivez-vous à notre newsletter pour être tenus au courant de la sortie de la programmation.</p><h2>Festivals</h2><p>Le Cinématographe accueille plusieurs festivals de Lausanne et région tout au long de l’année.</p><p>Les festivals accueillis au Cinématographe :</p><p><a href=\"https://www.cine-afrique.ch/\">Cinémas d’Afrique</a><br><a href=\"https://ecrans-urbains.ch/\">Écrans Urbains</a><br><a href=\"https://festivalcinemajeunepublic.ch/\">Festival Cinéma Jeune Public</a><br><a href=\"https://www.filmfest-lausanne.ch/\">Film Fest Lausanne</a><br><a href=\"https://luff.ch/\">Lausanne Underground Film &amp; Music Festival</a><br><a href=\"https://tffl.ch/\">Tourne-Films Festival Lausanne</a></p><p>Pour discuter d’une collaboration avec le Cinématographe, écrivez-nous à <a href=\"mailto:location@lecinematographe.ch\">location@lecinematographe.ch</a>.</p>"},"id":"87c32828-d79e-4839-af8d-642cedd98eca","isHidden":false,"type":"textWithTitle"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: aKiZ3NkmEjsEojLh
