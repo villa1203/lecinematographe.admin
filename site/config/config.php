@@ -13,6 +13,12 @@ return [
                 header("Access-Control-Allow-Headers: Content-Type, Authorization");
                 header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
             }
+        ],
+        [
+            'pattern' => '/',
+            'action'  => function () {
+                return go('panel');
+            }
         ]
     ],
 ];
